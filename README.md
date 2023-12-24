@@ -1,2 +1,2 @@
 # DataStructures
-datastructures using c++
+datastructures implementation of list using c++
